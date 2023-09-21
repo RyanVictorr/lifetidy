@@ -1,0 +1,8 @@
+/*Aplicado em tudo*/
+*{
+  box-sizing:border-box;
+  height: 100%;
+  margin: 0;
+  font-family: 'Istok Web', sans-serif;
+  background-color: #0A3950;
+}
